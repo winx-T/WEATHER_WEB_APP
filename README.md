@@ -28,6 +28,7 @@ project/
 - **Interactive Background**: Uses [Particles.js](https://vincentgarreau.com/particles.js/) to create animated particle effects based on weather conditions (e.g., snowflakes for snow, raindrops for rain).
 - **Responsive Design**: The app is fully responsive and adapts to both mobile and desktop devices.
 - **Custom Weather Icons**: Custom icons and animations are used to visually represent different weather conditions.
+- **Contact Us Form**: Allows users to contact the app team directly via a form. The form includes fields for the user's name, email, and message. Upon submission, the message is sent to the team through [Formspree](https://formspree.io).
 
 ## Technologies Used
 
@@ -88,3 +89,5 @@ You can deploy this app to any static hosting platform, such as:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+
