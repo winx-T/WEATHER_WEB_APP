@@ -1,4 +1,3 @@
-Here is your enhanced `README.md` with improved formatting and aesthetics:
 
 # Weather App
 
