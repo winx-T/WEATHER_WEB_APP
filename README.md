@@ -2,7 +2,7 @@ Here is your enhanced `README.md` with improved formatting and aesthetics:
 
 # Weather App
 
-<img src="https://github.com/winx-T/weather-web-app/blob/main/images/Weather.webp" width="200">
+<img src="https://github.com/winx-T/WEATHER_WEB_APP/blob/main/images/Weather.webp" width="200">
 
 This is a dynamic weather web application that provides real-time weather updates and forecasts. The app uses an interactive and visually appealing design with animated particles in the background, real-time weather data, and a smooth user experience. The app is responsive and works seamlessly across devices.
 
